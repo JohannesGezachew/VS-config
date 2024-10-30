@@ -14,7 +14,10 @@ This repository contains my customized Visual Studio Code configuration, designe
 
 To use this configuration:
 
-1.  bashCopy codegit clone https://github.com/JohannesGezachew/VS-config.git ~/.config/Code/User
+1.  **Clone this repository:**
+     ```bash
+      git clone https://github.com/JohannesGezachew/VS-config.git ~/.config/Code/User
+
 2.  **Ensure Neovim is Installed**:
 
     - Make sure Neovim is installed and accessible in your PATH. If not, install it from [neovim.io](https://neovim.io/).
